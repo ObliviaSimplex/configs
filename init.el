@@ -1,0 +1,1 @@
+/home/oblivia/.emacs.d/init.el
